@@ -1,0 +1,4 @@
+#Mon Aug 10 22:35:06 EET 2020
+base.0=H\:\\New folder (2)\\google_maps\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
